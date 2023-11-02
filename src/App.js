@@ -1,7 +1,7 @@
 import { Routes,Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import Search from "./pages/Search";
-
+import "./app.css"
 
 function App() {
   return (
