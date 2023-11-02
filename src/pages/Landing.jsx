@@ -2,7 +2,6 @@ import React,{useState,useEffect} from "react";
 import Navbar from "../components/Navbar";
 import banner1 from "../assets/images/Banner.png"
 import banner2 from "../assets/images/b2.png"
-import banner3 from "../assets/images/b3.png"
 import roll1 from "../assets/images/roll1.png"
 import roll2 from "../assets/images/roll2.png"
 import roll3 from "../assets/images/roll3.png"
