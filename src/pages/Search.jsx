@@ -25,7 +25,7 @@ const Search=()=>{
         if (selectedOption=='Women clothing'){
             setBrand(women);
         }
-    },[refreshCount])
+    },[refreshCount,selectedOption])
     return (
         <div>
             <Navbar/>

@@ -1,7 +1,7 @@
 import React,{useState,useContext} from "react";
 import noteContext from "../context/notes/noteContext";
 import { Link } from "react-router-dom";
-import {Logo, Nav, Side,Texts,Input,Select,Img,SearchImg} from "../styles/navbar";
+import {Logo, Nav, Side,Texts,Select,Img,SearchImg} from "../styles/navbar";
 import cart from "../assets/images/add-to-cart.png"
 import account from "../assets/images/user.png"
 const Navbar=()=>{
@@ -10,7 +10,6 @@ const Navbar=()=>{
         <Nav>
             <Logo>Infibuy</Logo>
             <Texts>
-            <Input type="text" value={inputValue} onChange={handleInputChange} placeholder="Search your product"></Input>
             <Select value={selectedOption} onChange={handleOptionChange}>
             <option value="">Category</option>
             <option value="All">All</option>

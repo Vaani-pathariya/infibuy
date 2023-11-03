@@ -24,24 +24,18 @@ border-radius: 0 10px 10px 0;
 border: 1px solid black;
 background-color: white;
 `
-const Input=styled.input`
-height: 60%;
-width: 65%;
-margin-top: 10px;
-border-radius: 10px 0 0 10px;
-border: 1px solid black;
-padding-left: 10px;
-`
+
 const Select=styled.select`
 height: 66%;
-width: 20%;
+width: 90%;
 margin-top: 10px;
 border: 1px solid black;
 padding-left: 10px;
+border-radius: 10px 0 0 10px;
 `
 const Img=styled.img`
 height: 35px;
 margin-top: 10px;
 margin-right: 20px;
 `
-export {Nav,Side,Logo,Texts,Input,Select,Img,SearchImg};
+export {Nav,Side,Logo,Texts,Select,Img,SearchImg};
