@@ -23,3 +23,5 @@ $ cd infibuy
 - Open this folder in your favourite IDE.  <br>
 - Run `npm install`.<br>
 - Run `npm start` for starting the website on your local machine.
+
+Now the site must be visible on 'localhost:3000'
