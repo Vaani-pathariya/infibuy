@@ -1,7 +1,8 @@
 import React from "react";
+import { PagingDiv } from "../styles/paging";
 const Paging=()=>{
     return (
-        <div>Hello I am paging</div>
+        <PagingDiv>Hello I am paging</PagingDiv>
     )
 }
 export default Paging;

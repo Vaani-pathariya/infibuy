@@ -2,7 +2,7 @@
     {
         "title":"Hello",
         "price":"35",
-        "brand":"swiss",
+        "description":"swiss",
         "reviews":"7",
         "category":"Men's Clothing",
         "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
@@ -10,22 +10,33 @@
     {
         "title":"Hello",
         "price":"35",
-        "brand":"swiss",
+        "description":"swiss",
         "reviews":"7",
-        "category":"Men's Clothing"
+        "category":"Men's Clothing",
+        "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
     },
     {
         "title":"Hello",
         "price":"35",
-        "brand":"swiss",
+        "description":"swiss",
         "reviews":"7",
-        "category":"Men's Clothing"
+        "category":"Men's Clothing",
+        "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
     },
     {
         "title":"Hello",
         "price":"35",
-        "brand":"swiss",
+        "description":"swiss",
         "reviews":"7",
-        "category":"Men's Clothing"
+        "category":"Men's Clothing",
+        "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
+    },
+    {
+        "title":"Hello",
+        "price":"35",
+        "description":"swiss",
+        "reviews":"7",
+        "category":"Men's Clothing",
+        "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
     }
 ]
