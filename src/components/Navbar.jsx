@@ -1,5 +1,6 @@
 import React,{useState} from "react";
-import {Logo, Nav, Side,Texts,Input,Select,Img} from "../styles/navbar";
+import { Link } from "react-router-dom";
+import {Logo, Nav, Side,Texts,Input,Select,Img,SearchImg} from "../styles/navbar";
 import cart from "../assets/images/add-to-cart.png"
 import account from "../assets/images/user.png"
 const Navbar=()=>{
@@ -23,6 +24,7 @@ const Navbar=()=>{
             <option value="Option 1">Men's clothing</option>
             <option value="Option 2">Women's clothing</option>
             </Select>
+            <Link to="/search"><SearchImg>Search</SearchImg></Link>
             </Texts>
             <Side>
                 <Img src={cart}></Img>

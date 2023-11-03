@@ -18,9 +18,15 @@ margin-left: 20px;
 const Texts=styled.div`
 width: 50%;
 `
+const SearchImg=styled.button`
+height: 65%;
+border-radius: 0 10px 10px 0;
+border: 1px solid black;
+background-color: white;
+`
 const Input=styled.input`
 height: 60%;
-width: 70%;
+width: 65%;
 margin-top: 10px;
 border-radius: 10px 0 0 10px;
 border: 1px solid black;
@@ -28,9 +34,8 @@ padding-left: 10px;
 `
 const Select=styled.select`
 height: 66%;
-width: 25%;
+width: 20%;
 margin-top: 10px;
-border-radius: 0 10px 10px 0;
 border: 1px solid black;
 padding-left: 10px;
 `
@@ -39,4 +44,4 @@ height: 35px;
 margin-top: 10px;
 margin-right: 20px;
 `
-export {Nav,Side,Logo,Texts,Input,Select,Img};
+export {Nav,Side,Logo,Texts,Input,Select,Img,SearchImg};

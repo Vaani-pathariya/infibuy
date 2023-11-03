@@ -1,10 +1,15 @@
+import { Card, CardImg ,Next,Below} from "../styles/newCard";
 import React from "react";
+import next from "../assets/images/next.png"
 const NewCard=(props)=>{
     return(
-        <div>
-            <img src={props.img}></img>
+        <Card>
+            <CardImg src={props.img}></CardImg>
+            <Below>
             <div>{props.text}</div>
-        </div>
+            <Next src={next}></Next>
+            </Below>
+        </Card>
     )
 }
 export default NewCard;
