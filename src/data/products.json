@@ -1,6 +1,6 @@
 [
     {
-        "title":"Hello",
+        "title":"Jumpsuit",
         "price":1000,
         "description":"Jahnvi",
         "gender":"women",
@@ -9,7 +9,7 @@
         "img":"https://images.unsplash.com/photo-1581338834647-b0fb40704e21?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fDB8fHww"
     },
     {
-        "title":"Hello",
+        "title":"Sweater",
         "price":350,
         "description":"Nike",
         "gender":"women",
@@ -18,7 +18,7 @@
         "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f37abd12-4cd9-4eef-935f-7e0bc81b7fda/sportswear-phoenix-fleece-womens-over-oversized-crewneck-sweatshirt-nTshQw.png"
     },
     {
-        "title":"Hello",
+        "title":"Sweater",
         "price":650,
         "description":"Nike",
         "gender":"women",
@@ -27,7 +27,7 @@
         "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d528c9b3-296f-49fa-bcab-d13e7d7bb688/sportswear-air-oversized-fleece-pullover-hoodie-Z15d15.png"
     },
     {
-        "title":"Hello",
+        "title":"Zipper",
         "price":850,
         "description":"Nike",
         "gender":"men",
@@ -36,7 +36,7 @@
         "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e5cc0090-b1d3-47f3-ad5b-11cf7f924324/sportswear-tech-fleece-og-hoodie-sweatshirt-jmcD8w.png"
     },
     {
-        "title":"Hello",
+        "title":"T Shirt",
         "price":200,
         "description":"H&M",
         "gender":"men",
@@ -45,7 +45,7 @@
         "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/24532232/2023/8/17/d6280e66-bf8f-476d-866b-e81adccf9f5e1692287467352Shirts1.jpg"
     },
     {
-        "title":"Hello",
+        "title":"Gown",
         "price":100,
         "description":"Helen",
         "gender":"women",
@@ -54,7 +54,7 @@
         "img":"https://images.meesho.com/images/products/280987200/f370b_512.webp"
     },
     {
-        "title":"Hello",
+        "title":"Coat",
         "price":400,
         "description":"Sagar",
         "gender":"men",
@@ -63,7 +63,7 @@
         "img":"https://www.next.us/nxtcms/resource/blob/5791582/e62e1d85d444c992f222485ababad4b1/coats-data.jpg"
     },
     {
-        "title":"Hello",
+        "title":"Jeans",
         "price":560,
         "description":"Sagar",
         "gender":"men",
