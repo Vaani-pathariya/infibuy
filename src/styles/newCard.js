@@ -8,6 +8,9 @@ const CardImg=styled.img`
 height: 350px;
 width: 250px;
 border-radius: 20px;
+@media (max-width: 410){
+    width: 100%;
+}
 `
 const Next=styled.img`
 height: 25px`

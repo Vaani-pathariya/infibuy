@@ -25,6 +25,16 @@ grid-template-columns: 30% 30% 30%;
 grid-gap: 1rem;
 justify-content: space-between;
 padding: 2%;
+@media (max-width: 1010px) {
+    display: grid;
+    grid-template-columns: 45% 45% ;
+    grid-gap: 1rem;
+    justify-content: space-between;
+    padding: 2%;
+}
+@media (max-width: 686px) {
+    display: block;
+}
 `
 const Hr=styled.hr`
 padding: 0;

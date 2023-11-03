@@ -38,10 +38,16 @@ margin-top: 50px;
 display: flex;
 padding: 0 50px;
 justify-content: space-between;
+@media (max-width: 981px) {
+  display: block;
+  width: fit-content;
+  margin: auto;
+  margin-top: 30px;
+}
 `
 const Overtext=styled.div`
 position: absolute;
-  top: 300px;
+  top: 250px;
   left: 10%;
   color: white;
   padding: 10px;
