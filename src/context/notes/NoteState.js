@@ -17,10 +17,6 @@ const NodeState=(props)=>{
         setActive('')
         setPrice('')
     };
-    const [currentPage,setCurrentPage]=useState(1)
-    const handlecurrent=()=>{
-        setCurrentPage(currentPage+1)
-    }
     const [active,setActive]=useState('')
     const handleActive=(value)=>{
         setActive(value);
@@ -31,7 +27,7 @@ const NodeState=(props)=>{
         setPrice(value);
     }
     const state={
-        inputValue,selectedOption,handleInputChange,handleOptionChange,refreshCount,handleClick,active,handleActive,price,handlePrice,currentPage,handlecurrent
+        inputValue,selectedOption,handleInputChange,handleOptionChange,refreshCount,handleClick,active,handleActive,price,handlePrice
     }
     
     return (
