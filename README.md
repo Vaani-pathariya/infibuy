@@ -1,3 +1,5 @@
+### A preview of the site is available on the following link : 
+https://infibuy.netlify.app/ <br>
 
 A simple website that allows users to see a list of products along with their images , price and description, and filter their choices from the filter options provided
 
