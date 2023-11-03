@@ -15,8 +15,9 @@ background-color: #f2b78f;
 width: 100%;
 text-align: left;
 border:  none;
-border-radius: 5px;
+border-radius: 2px;
 padding: 4px;
+margin-bottom: 5px;
 `
 const DivInside=styled.div`
 display: grid;

@@ -7,7 +7,7 @@ font-weight: bold;
 `
 const CardImg=styled.img`
 width: 100%;
-height: 400px;
+height: 350px;
 border-radius: 7px;
 `
 const CardBelow=styled.div`
